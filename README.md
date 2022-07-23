@@ -3,7 +3,7 @@
 <h3> :bearded_person:    Sobre mim </h3>
 
 - 🤔 &nbsp;  <strong> Entusiasta </strong> de aprendizado em desenvolvimento web!
-- 🎓 &nbsp;  Estudando <strong>Full Stack Developer</strong> no <a href="https://www.growdev.com.br/">GROWDEV</a>.
+- 🎓 &nbsp;  Estudando <strong>Full Stack Developer</strong> na <strong><a href="https://www.growdev.com.br/">GROWDEV</a></strong>.
 - 💼 &nbsp;  Aperfeiçoando <strong>Hard e Soft Skills</strong> para solucionar problemas de empresas.
 - 🌱 &nbsp;  Aprendendo sobre <strong>HTML, CSS, Git e Github</strong>.
 - :unlock: &nbsp; <strong> Javascript, C++, ReactJS, NodeJS e muito mais </strong>.
