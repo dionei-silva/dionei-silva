@@ -55,15 +55,22 @@
 
 <br/>
 
-<a href="https://github.com/dionei-silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dionei-silva&theme=dracula&show_icons=true" />
+  ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dionei-silva&theme=monokai&utcOffset=8)
+  ![Top Linguagens by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dionei-silva&theme=monokai)
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=dionei-silva&theme=xcode&hide_border=true&area=true)
 </a>
   
   <hr/>
 
 <br/>
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bdionei-silva%7D/count.svg" /></p> 
+<br></div>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+  
 
 [![Linkedin: Dionei](https://img.shields.io/badge/-dioneisilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionei-silva-658858243/)](https://www.linkedin.com/in/dionei-silva-658858243/)
 [![Gmail Badge](https://img.shields.io/badge/-dionei.silva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dionei.silva@gmail.com)](mailto:dionei.silva@gmail.com)
