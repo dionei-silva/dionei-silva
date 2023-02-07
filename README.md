@@ -5,8 +5,8 @@
 - :star_struck: &nbsp;  <strong> Entusiasta </strong> de aprendizado em desenvolvimento web!
 - :mortar_board: &nbsp;  Estudando <strong>Full Stack Developer</strong> na <strong><a href="https://www.growdev.com.br/">GROWDEV</a></strong>.
 - :briefcase: &nbsp;  Aperfeiçoando <strong>Hard e Soft Skills</strong> para melhorar o coeficiente de empresas.
-- :seedling: &nbsp;  Aprendendo sobre <strong>HTML, CSS, Git e Github</strong>.
-- :unlock: &nbsp; <strong> Javascript, C++, ReactJS, NodeJS e muito mais </strong>.
+- :seedling: &nbsp;  Aprendendo sobre <strong>HTML, CSS, Javascript, Git e Github</strong>.
+- :unlock: &nbsp; <strong> C++, ReactJS, NodeJS e muito mais </strong>.
 - :sunglasses: &nbsp; Nas horas vagas gosto de me conectar com a <strong>natureza</strong> e ir para <strong>praia</strong> com meus amigos.
   
  <hr/>
