@@ -56,7 +56,6 @@
 
   ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dionei-silva&theme=monokai&utcOffset=8)
   ![Top Linguagens by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dionei-silva&theme=monokai)
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=dionei-silva&theme=xcode&hide_border=true&area=true)
 </a>
   
   <hr/>
