@@ -5,7 +5,6 @@
 - :mortar_board: &nbsp;  Estudando <strong>Full Stack Developer</strong> na <strong><a href="https://www.growdev.com.br/">GROWDEV</a></strong>.
 - :briefcase: &nbsp;  Aperfeiçoando <strong>Hard e Soft Skills</strong> para melhorar o coeficiente de empresas.
 - :seedling: &nbsp;  Aprendendo sobre <strong>HTML, CSS, Javascript, Git e Github, JS, TS, REACT,</strong>.
-- :unlock: &nbsp; <strong> Vue, Laravel e muito mais </strong>.
 - :sunglasses: &nbsp; Nas horas vagas gosto de me conectar com a <strong>natureza</strong> e ir para <strong>praia</strong> com meus amigos.
   
  <hr/>
